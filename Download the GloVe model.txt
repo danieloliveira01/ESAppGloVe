@@ -1,0 +1,1 @@
+Download the GloVe model used in this article via this link: https://nlp.stanford.edu/projects/glove
